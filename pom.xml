@@ -11,7 +11,7 @@
 
     <name>kolkoIKrzyzyk</name>
     <description>kolkoIKrzzyk</description>
-    <url>https://github.com/wnukedwarda/kolkoKrzyzyk</url>
+    <url>https://github.com/wnukedwarda/kolkoKrzyzyk.git</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
